@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color: #2e2f42;
 }
 a {
     font-style: normal;
@@ -22,7 +23,7 @@ button {
         font-size: 18px;
     
         /* line-height: 21px; */
-        line-height: 1.16667;
+        line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -78,11 +79,10 @@ color: #404bbf;
 }
 
 .main-hero-title {
-font-weight: 700;
     font-size: 56px;
 
     /* line-height: 60px; */
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #fff;
 }
@@ -116,7 +116,6 @@ font-weight: 500;
 }
 
 .main-features-text {
-    font-weight: 400;
         font-size: 16px;
     
         /* line-height: 24px; */
@@ -130,11 +129,10 @@ font-weight: 500;
 }
 
 .main-team-title {
-    font-weight: 700;
         font-size: 36px;
     
         /* line-height: 40px; */
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
@@ -154,7 +152,6 @@ font-weight: 500;
 }
 
 .team-list-text {
-    font-weight: 400;
         font-size: 16px;
     
         /* line-height: 24px; */
@@ -166,11 +163,10 @@ font-weight: 500;
 .main-section-portfolio {}
 
 .main-portfolio-title {
-    font-weight: 700;
         font-size: 36px;
     
         /* line-height: 40px; */
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
@@ -190,7 +186,6 @@ font-weight: 500;
 }
 
 .main-portfolio-list-text {
-    font-weight: 400;
         font-size: 16px;
     
         /* line-height: 24px; */
@@ -207,7 +202,7 @@ font-weight: 500;
         font-size: 18px;
     
         /* line-height: 21px; */
-        line-height: 1.16667;
+        line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -217,7 +212,6 @@ font-weight: 500;
     color: #2e2f42;
 }
 .footer-text {
-    font-weight: 400;
         font-size: 16px;
     
         /* line-height: 24px; */
