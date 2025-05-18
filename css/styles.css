@@ -188,7 +188,9 @@ font-weight: 500;
         text-transform: capitalize;
 }
 
-.main-portfolio-list {}
+.main-portfolio-list {
+    background-color: #FFFFFF;
+ }
 
 .main-portfolio-item {}
 
@@ -228,7 +230,7 @@ font-weight: 500;
 }
 
 
-.ooter-logo-span {
+.footer-logo-span {
     color: #f4f4fd;
 }
 .footer-text {
