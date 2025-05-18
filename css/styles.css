@@ -176,7 +176,9 @@ font-weight: 500;
         color: #434455;
 }
 
-.main-section-portfolio {}
+.main-section-portfolio {
+    background-color: #FFFFFF;
+}
 
 .main-portfolio-title {
         font-size: 36px;
@@ -189,7 +191,6 @@ font-weight: 500;
 }
 
 .main-portfolio-list {
-    background-color: #FFFFFF;
  }
 
 .main-portfolio-item {}
