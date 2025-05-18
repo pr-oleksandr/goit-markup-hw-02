@@ -152,12 +152,12 @@ font-weight: 500;
 }
 
 .main-team-list {
-    background-color: #FFFFFF;
+
 }
 
-.main-section-team ul {
+.team-list-item {
+    background-color: #FFFFFF;
 }
-.team-list-item {}
 
 .team-list-title {
     font-weight: 500;
