@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2e2f42;
+    color:#434455;
+    background-color: #fff;
 }
 a {
     font-style: normal;
@@ -18,12 +19,12 @@ button {
 .header-nav {}
 
 .header-logo {
-    font-family: "Ralewey", sans-serif;
+    font-family: "Ralewey",sans-serif;
     font-weight: 700;
         font-size: 18px;
     
         /* line-height: 21px; */
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -48,7 +49,8 @@ button {
         color: #2e2f42;
 }
 
-.header-item-link:hover {
+.header-item-link:hover,
+.header-item-link:focus {
 color: #404bbf;
 }
 .header-contacts {}
@@ -67,9 +69,11 @@ color: #404bbf;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        font-style: normal;
 }
 
-.header-contacts-link:hover {
+.header-contacts-link:hover,
+.header-contacts-link:focus, {
 color: #404bbf;
 }
 /* ==========MAIN============ */
@@ -80,7 +84,7 @@ color: #404bbf;
 
 .main-hero-title {
     font-size: 56px;
-
+text-align: center;
     /* line-height: 60px; */
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -95,9 +99,11 @@ font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4D5AE5;
 }
 
-.main-hero-btn:hover {
+.main-hero-btn:hover,
+.main-hero-btn:focus {
         background: #404bbf;
 }
 
@@ -130,14 +136,17 @@ font-weight: 500;
 
 .main-team-title {
         font-size: 36px;
-    
+    text-align: center;
         /* line-height: 40px; */
-        line-height: 1.1;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
-.main-team-list {}
+.main-team-list {
+    background-color: #FFFFFF
+}
 
 .team-list-item {}
 
@@ -164,11 +173,12 @@ font-weight: 500;
 
 .main-portfolio-title {
         font-size: 36px;
-    
+    text-align: center;
         /* line-height: 40px; */
-        line-height: 1.1;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .main-portfolio-list {}
